@@ -25,7 +25,7 @@ But enough about the obvious matters and let's talk about stuff that may or not 
 
 #### I speak Spanish, Swedish and English.
 
-[![Isabel Achurra's github activity graph](https://activity-graph.herokuapp.com/graph?username=freederth&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Isabel Achurra's github activity graph](https://activity-graph.herokuapp.com/graph?username=freederth&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)]
 
 | ![Isabel's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=freederth&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freederth&layout=compact)
 | -- | -- |
